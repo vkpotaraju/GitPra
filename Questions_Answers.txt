@@ -1,0 +1,5 @@
+Om Ganeshaya Namaha:
+
+1. Does the local repo need to have same name as Remote
+2. Show Origin location - git remote show origin
+3. 
